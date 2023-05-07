@@ -107,3 +107,12 @@ Congrats claim the language on your resume, you know it.
 1. Rate Limiting
 1. Logging and Monitoring
 
+## Focus on 1 (Where the money resides)
+
+1. Blockchain Architecture
+1. Infrastructure and Tooling
+1. Artificial Intelligence, Machine Learning & Computer Vision
+1. Web3
+1. Big DATA
+1. Consumer Web Applications     
+1. Education Technology
