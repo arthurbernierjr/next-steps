@@ -1,5 +1,52 @@
 # Next Steps
 
+## Learn Any High Level Programming Language and Modern Systems Languages
+1. How do I create a variable?
+1. How do I do Control Flow?
+1. How do I create a loop?
+1. How do I handle Collections of Data Natively?
+1. How do I create and use A Function?
+1. How do I create a Class?
+1. How do I Instantiate a Class?
+1. How do I create methods for the class?
+1. How do I create a Sub Class?
+1. How do I create Static Methods/Properties?
+1. How do I use a package manager?
+1. How do I build an app with a Web Framework?
+1. How do I connect to a Database?
+1. How do I build a REST API?
+1. Build A Linked List?
+1. Build A Stack with a Linked List?
+1. Build A Queue with a Linked List?
+1. Build A Binary Search Tree?
+1. Breadth First Search?
+1. Depth First Search Pre-Order?
+1. Depth First Search In-Order?
+1. Depth First Search Post-Order?
+1. Describe the language, it's syntax and it's peculiar features?
+
+Congrats claim the language on your resume, you know it.
+
+## Technologies you should learn
+1. Docker
+1. Kubernetes
+1. Terraform
+1. Circle CI
+1. Travis CI
+1. Github Actions
+1. Nginx
+1. UFW
+1. Certbot
+1. PM2     
+
+## Learn 3
+1. Digital Ocean
+1. AWS
+1. Azure
+1. Google Cloud Platform
+1. CPANEL & WHM
+1. Parallel Plesk     
+
 ## Fundamentals of Career Software Engineering
 
 1. Logic
