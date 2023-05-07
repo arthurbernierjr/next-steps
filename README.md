@@ -1,6 +1,6 @@
 # Next Steps
 
-## Computer Science Fundamentals
+## Fundamentals of Career Software Engineering
 
 1. Logic
 1. Boolean Algebra
@@ -10,6 +10,9 @@
 1. Entropy
 1. Encoding
 1. Error Connection
+1. Frequency Counters
+1. Sliding Window
+1. Divide & Conquer
 1. Encryption
 1. Hashes & Hashing
 1. Functional Programming
