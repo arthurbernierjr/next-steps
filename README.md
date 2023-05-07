@@ -11,7 +11,7 @@
 1. Encoding
 1. Error Connection
 1. Encryption
-1. Hashes
+1. Hashes & Hashing
 1. Functional Programming
 1. Lamda Calculus
 1. Database Normalization
@@ -44,3 +44,16 @@
 1. Behavior Driven Development
 1. Shell Scripts, and Bash Scripting
 1. Make Files
+1. Systems Design Fundamentals
+1. IP, TCP, HTTP, HTTPS
+1. Database, Blob Storage Disk, Memory & Persistent Storage
+1. Latency & Throughput
+1. Availability, High Availability, Nines, Redundancy, SLA, SLO
+1. Cache
+1. Proxy, Forward Proxy, Reverse Proxy, Load Balancers
+1. NO-SQL, Key Value Stores and Document Based DBs
+1. Replication Sharding and Leader Election
+1. Peer to Peer Networks
+1. Rate Limiting
+1. Logging and Monitoring
+
